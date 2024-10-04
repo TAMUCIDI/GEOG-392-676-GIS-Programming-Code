@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20180629</CreaDate><CreaTime>19141000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Statistics Tools.tbx\ExportXYv" Date="20180629" Time="191410">ExportXYv Structures Number;BldgAbbr;BldgName Comma D:\DevSource\Tamu\GeoInnovation\_GISProgramming\code\25\FeatureToCSV.csv ADD_FIELD_NAMES</Process></lineage></DataProperties></Esri></metadata>

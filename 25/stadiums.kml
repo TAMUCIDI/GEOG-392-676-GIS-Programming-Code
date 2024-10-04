@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bookmarks</name>
+	<Style id="__managed_style_26CAC2A62B057895BC1B">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://earth.google.com/clientassets/pin_myplaces_selected_128px.png</href>
+			</Icon>
+			<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c000000</color>
+		</PolyStyle>
+		<BalloonStyle>
+			<gx:displayMode>card</gx:displayMode>
+		</BalloonStyle>
+	</Style>
+	<Style id="__managed_style_1DFE6D8706057895BC1B">
+		<IconStyle>
+			<Icon>
+				<href>https://earth.google.com/clientassets/pin_myplaces_selected_128px.png</href>
+			</Icon>
+			<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c000000</color>
+		</PolyStyle>
+		<BalloonStyle>
+			<gx:displayMode>card</gx:displayMode>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="__managed_style_04B18559C0057895BC1B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1DFE6D8706057895BC1B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26CAC2A62B057895BC1B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0E5C986552057895BC1A">
+		<name>NRG Stadium</name>
+		<gx:mid>/m/07thm5</gx:mid>
+		<gx:fid>0x8640c0194b406bad:0x1b0f6ec2399a9d57</gx:fid>
+		<LookAt>
+			<longitude>-95.41070739999999</longitude>
+			<latitude>29.6847219</latitude>
+			<altitude>15.62126002242235</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>903.4443752399158</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B18559C0057895BC1B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.41070739999999,29.6847219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F0795B085057896F227">
+		<name>Mercedes-Benz Superdome</name>
+		<gx:mid>/m/02y3xn</gx:mid>
+		<gx:fid>0x8620a5dd82214811:0x6e354b4a1659e3af</gx:fid>
+		<LookAt>
+			<longitude>-90.0812442</longitude>
+			<latitude>29.951061</latitude>
+			<altitude>54.665592801779</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>900.7869933802642</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B18559C0057895BC1B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.08124419999999,29.951061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0679468EE5057897446B">
+		<name>University of Phoenix Stadium</name>
+		<gx:mid>/m/080ls4</gx:mid>
+		<gx:fid>0x872b40484caa40dd:0xb9c497aa9569305b</gx:fid>
+		<LookAt>
+			<longitude>-112.2625593</longitude>
+			<latitude>33.5276247</latitude>
+			<altitude>362.0684384906671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>863.1866776222869</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B18559C0057895BC1B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-112.2625593,33.5276247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6042B9DF05789787F8">
+		<name>SDCCU Stadium</name>
+		<gx:mid>/m/02z12p</gx:mid>
+		<gx:fid>0x80d95482b06ef9e1:0x33d6063361f826cb</gx:fid>
+		<LookAt>
+			<longitude>-117.1195716</longitude>
+			<latitude>32.7831122</latitude>
+			<altitude>15.56024934073694</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>871.3021274866878</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B18559C0057895BC1B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.1195716,32.7831122,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EE53616C5057897DA67">
+		<name>AT&amp;T Stadium</name>
+		<gx:mid>/m/0g9v1q</gx:mid>
+		<gx:fid>0x864e7d86c8884727:0x6d1e60e88c6a9df8</gx:fid>
+		<LookAt>
+			<longitude>-97.09449389999999</longitude>
+			<latitude>32.7472844</latitude>
+			<altitude>184.9012485380656</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>871.6889050238743</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B18559C0057895BC1B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-97.09449389999999,32.7472844,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04961C74AF05789817A9">
+		<name>Hard Rock Stadium</name>
+		<gx:mid>/m/01_kzm</gx:mid>
+		<gx:fid>0x88d9af0497b5f3a9:0x5815e194c60bf9db</gx:fid>
+		<LookAt>
+			<longitude>-80.23886039999999</longitude>
+			<latitude>25.9579665</latitude>
+			<altitude>3.273400295471449</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>938.4643860558347</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B18559C0057895BC1B</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.23886039999999,25.9579665,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
